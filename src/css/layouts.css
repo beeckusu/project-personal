@@ -1,0 +1,12 @@
+.layout-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.layout-left-aligned {
+  text-align: left;
+}
+
+.layout-right-aligned {
+  text-align: right;
+}
