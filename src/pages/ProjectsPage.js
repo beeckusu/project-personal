@@ -8,6 +8,7 @@ const projects = [
         startDate: "Sept 2021",
         endDate: "Present",
         url: "https://www.google.com",
+        gitLink: "https://github.com/beeckusu/project-personal",
         descriptionPoints: ["Designed and developed a personal website using React, Bootstrap, and React-Bootstrap.",
             "Implemented a custom markdown parser to allow for easy content editing.",
             "Deployed the website using GitHub Pages."],
