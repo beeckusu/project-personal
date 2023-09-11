@@ -1,6 +1,6 @@
 import { Card } from 'react-bootstrap';
 import { Badge } from 'react-bootstrap';
-import { formatString } from './func.js';
+import { formatString } from '../utils/func.js';
 
 const ExperienceCard = ({ experience }) => {
     return (
