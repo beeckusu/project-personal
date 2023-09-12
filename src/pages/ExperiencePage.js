@@ -1,4 +1,4 @@
-import ExperienceCard from "../utils/ExperienceCard";
+import ExperienceCard from "../cards/ExperienceCard";
 import { Container } from 'react-bootstrap';
 import dcIcon from '../assets/icon-doctorcare.jpg';
 
